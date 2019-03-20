@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Todoos</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_information"><big><b>AnotherMonitor</b> v3.1.0</big>
+		\nhttps://github.com/AntonioRedondo/AnotherMonitor
+		\n\n© 2010&#8211;2017 Antonio Redondo
+		\nhttp://antonioredondo.com
+		\n\nPublished under the
+		\nGNU General Public License v3
+		\n\nChuck Norris approves this application.</string>
+    <string-array name="choices">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Snacks</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_data_">Data_Activity</string>
+</resources>
